@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "382340299399",
+    "firebase_url": "https://calculator-72e6d.firebaseio.com",
+    "project_id": "calculator-72e6d",
+    "storage_bucket": "calculator-72e6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382340299399:android:0610549eaabfac9d",
+        "android_client_info": {
+          "package_name": "starks.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382340299399-8dn133iifqdelhfmeq6jgd21i0v1db4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy3NvTEBuPzLUXOOM_U2UovgG2xWTErk8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
